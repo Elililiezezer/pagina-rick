@@ -4,7 +4,7 @@
     }
     body { 
         background-image: url("/img/4fotospixels.jpg") ;
-        background-size: 1500px 600px; /* ajusta o tamanho da imagem */
+        background-size: 1300px 700px; /* ajusta o tamanho da imagem */
         background-repeat: no-repeat; /* Para evitar a repetição da imagem */
         background-color: #131313;
         overflow: hidden;

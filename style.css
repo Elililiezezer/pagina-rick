@@ -2,44 +2,7 @@
     margin: 0;
     padding: 0;
     }
-        body, html {
-            margin: 0;
-            padding: 0;
-            height: 100%;
-            width: 100%;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-
-        .grid-container {
-            display: grid;
-            grid-template-columns: repeat(2, 1fr);
-            grid-template-rows: repeat(2, 1fr);
-            width: 100%;
-            height: 100%;
-        }
-
-        .grid-item {
-            background-size: cover;
-            background-position: center;
-        }
-
-        .item1 {
-            background-image: url('/img/49b4453d8b5c8973b5e44d7cf8058b43.jpg');
-        }
-
-        .item2 {
-            background-image: url('/img/67702a7ea819a5fc2099a96cb49f5699.jpg');
-        }
-
-        .item3 {
-            background-image: url('/img/c1743f33ab5e3cc8940c4eb6bf299ec4.jpg');
-        }
-
-        .item4 {
-            background-image: url('/img/fazendinha\ \(1\).jpg');
-        }
+        body { 
     .texto-container {
         width: 80%; /* Largura do container */
         margin: 50px auto; /* muda a altura do container na página */
@@ -73,5 +36,5 @@
         .botao-personalizado:hover {
             background-color: #1a1616ab;
         }
-
+    }
     

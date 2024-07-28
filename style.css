@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     }
-        body, html {
+        body {html {
             margin: 0;
             padding: 0;
             height: 100%;
@@ -26,19 +26,19 @@
         }
 
         .item1 {
-            background-image: url('foto1.jpg');
+            background-image: url('/img/49b4453d8b5c8973b5e44d7cf8058b43.jpg');
         }
 
         .item2 {
-            background-image: url('foto2.jpg');
+            background-image: url('/img/67702a7ea819a5fc2099a96cb49f5699.jpg');
         }
 
         .item3 {
-            background-image: url('foto3.jpg');
+            background-image: url('/img/c1743f33ab5e3cc8940c4eb6bf299ec4.jpg');
         }
 
         .item4 {
-            background-image: url('foto4.jpg');
+            background-image: url('/img/fazendinha\ \(1\).jpg');
         }
     .texto-container {
         width: 80%; /* Largura do container */

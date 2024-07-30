@@ -45,7 +45,7 @@
 
         .vaca-danca {
             position: relative; /* or absolute */
-            left: 320px;  /* move 50px to the right */
+            left: 400px;  /* move 50px to the right */
             top: -50px;   /* move 20px down */
         }
 

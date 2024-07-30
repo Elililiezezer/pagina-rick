@@ -43,6 +43,12 @@
             background-color: #1a1616ab;
         }
 
+        .vaca-danca {
+            position: relative; /* or absolute */
+            left: 320px;  /* move 50px to the right */
+            top: -100px;   /* move 20px down */
+        }
+
         .text-color{
             color: #fcf7f7;
         }

@@ -57,8 +57,7 @@
 
         .sapo-canta {
             position: relative; /* or absolute */
-            left: 700px;  /* move 50px to the right */
-            top: 150px;   /* move 20px down */
+            left: 750px;  /* move 50px to the right */
             top: 280px;   /* move 20px down */
         }
 

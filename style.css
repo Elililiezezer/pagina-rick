@@ -51,8 +51,8 @@
 
         .sapo-anda {
             position: relative; /* or absolute */
-            left: 1500px;  /* move 50px to the right */
-            top: -50px;   /* move 20px down */
+            left: 1520px;  /* move 50px to the right */
+            top: -30px;   /* move 20px down */
         }
 
         .sapo-canta {

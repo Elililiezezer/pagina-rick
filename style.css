@@ -59,7 +59,7 @@
             position: relative; /* or absolute */
             left: 700px;  /* move 50px to the right */
             top: 50px;   /* move 20px down */
-            top: 100px;   /* move 20px down */
+            top: 300px;   /* move 20px down */
         }
 
         .text-color{

@@ -52,7 +52,7 @@
         .sapo-anda {
             position: relative; /* or absolute */
             left: 1200px;  /* move 50px to the right */
-            top: -200px;   /* move 20px down */
+            top: -180px;   /* move 20px down */
         }
         .text-color{
             color: #fcf7f7;

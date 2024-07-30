@@ -49,6 +49,11 @@
             top: -20px;   /* move 20px down */
         }
 
+        .sapo-anda {
+            position: relative; /* or absolute */
+            left: 800px;  /* move 50px to the right */
+            top: -200px;   /* move 20px down */
+        }
         .text-color{
             color: #fcf7f7;
         }

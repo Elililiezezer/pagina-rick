@@ -58,7 +58,11 @@
         .sapo-canta {
             position: relative; /* or absolute */
             left: 700px;  /* move 50px to the right */
-            top: 500px;   /* move 20px down */
+<<<<<<< HEAD
+            top: 50px;   /* move 20px down */
+=======
+            top: 50px;   /* move 20px down */
+>>>>>>> f18442fe696e3069c5305687d5528709b13bb0b7
         }
 
         .text-color{

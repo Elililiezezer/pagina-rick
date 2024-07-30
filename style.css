@@ -63,8 +63,8 @@
 
         .kktua-danca {
             position: relative; /* or absolute */
-            left: 450px;  /* move 50px to the right */
-            top: -50px;   /* move 20px down */
+            left: 0px;  /* move 50px to the right */
+            top: 0px;   /* move 20px down */
         }
 
         .text-color{

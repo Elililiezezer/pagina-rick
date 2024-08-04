@@ -43,22 +43,10 @@
             background-color: #1a1616ab;
         }
 
-        .vaca-danca {
-            position: relative; /* or absolute */
-            left: 650px;  /* move 50px to the right */
-            top: 200px;   /* move 20px down */
-        }
-
         .sapo-anda {
             position: relative; /* or absolute */
             left: 1520px;  /* move 50px to the right */
             top: -30px;   /* move 20px down */
-        }
-
-        .sapo-canta {
-            position: relative; /* or absolute */
-            left: 750px;  /* move 50px to the right */
-            top: 280px;   /* move 20px down */
         }
 
         .text-color{
